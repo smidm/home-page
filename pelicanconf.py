@@ -35,9 +35,10 @@ SITELOGO = SITEURL + '/images/photo.jpg'
 MAIN_MENU = False
 
 THEME = 'theme'
-# THEME = 'notmyidea-cms'
 
 INDEX_SAVE_AS = 'articles.html'
+
+GITHUB_URL = 'https://github.com/smidm/home-page'
 
 TYPOGRIFY = True
 
