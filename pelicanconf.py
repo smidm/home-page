@@ -34,7 +34,7 @@ RELATIVE_URLS = True
 SITELOGO = SITEURL + '/images/photo.jpg'
 MAIN_MENU = False
 
-THEME = 'Flex'
+THEME = 'theme'
 # THEME = 'notmyidea-cms'
 
 INDEX_SAVE_AS = 'articles.html'
