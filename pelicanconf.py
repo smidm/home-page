@@ -38,7 +38,7 @@ THEME = 'theme'
 
 INDEX_SAVE_AS = 'articles.html'
 
-GITHUB_URL = 'https://github.com/smidm/home-page'
+GITHUB_CORNER_URL = 'https://github.com/smidm/home-page'
 
 TYPOGRIFY = True
 
