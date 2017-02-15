@@ -1,0 +1,4 @@
+redirect /~smidm/index.html /~smidm/pages/home.html
+
+#RewriteEngine On
+#RewriteRule index\.html /~smidm/pages/matej-smid.html
