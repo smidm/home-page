@@ -3,3 +3,7 @@
 out
 .venv
 
+
+pelican\.pid
+
+srv\.pid
