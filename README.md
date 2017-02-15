@@ -1,3 +1,5 @@
+Source of academic home page at http://cmp.felk.cvut.cz/~smidm/.
+
 ## How to Update Web
 
 1. (optional: switch to virtualenv)
