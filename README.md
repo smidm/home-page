@@ -6,7 +6,7 @@
 4. `$ ./update_web.sh`
 
 ## Instalation
-    $ (optional - create virtualenv: mkvirtualenv pelican)
+    (optional - create virtualenv: $ mkvirtualenv pelican)
     $ git clone --recursive https://github.com/smidm/home-page
     $ cd home-page
     $ pip install pelican Markdown typogrify
