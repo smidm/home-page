@@ -1,32 +1,16 @@
-## How to modify pages
+## How to Update Web
 
-1. $ bash
-2. $ workon pelican (sets up python virtualenv)
-3. modify files in content/
-4. $ make rsync_upload
-
-
-## Theme
- - used modified **notmyidea-cms** theme
- - default location in *virtualenv* directory ~/.virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/ symlinked to ./modified pelican-themes
- - my modifications are hosted on  <https://github.com/palmstrom/pelican-themes/commits/master>
-
-### Modify Theme
-edit in ./modified pelican-themes/notmyidea-cms
-
-	# try it
-	$ make rsync_upload
-	# commit modifications
-	$ cd ./modified pelican-themes/
-	$ git commit -a
-	$ git push origin master
-	
-### Sync Modified Themes with Upstream
-<https://help.github.com/articles/fork-a-repo#pull-in-upstream-changes>
+1. $ (optional: switch to virtualenv)
+2. add/modify files in content/
+3. $ (optional: ./develop_server.sh start)  # check the updated web site on http://localhost:8000/
+4. $ ./update_web.sh
 
 ## Instalation
-    $ sudo yum install python-virtualenvwrapper
-    $ mkvirtualenv pelican
-    $ pip install pelican
-    $ pip install Markdown
-    $ pip install typogrify
+    $ (optional - create virtualenv: mkvirtualenv pelican)
+    $ git clone --recursive https://github.com/smidm/home-page
+    $ cd home-page
+    $ pip install pelican Markdown typogrify
+    
+## Upgrade Pelican
+    $ cd home-page
+    $ pip install --upgrade pelican Markdown typogrify
