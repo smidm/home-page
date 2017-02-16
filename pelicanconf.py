@@ -44,4 +44,8 @@ TYPOGRIFY = True
 
 DISPLAY_PAGES_ON_MENU = True
 
+PLUGIN_PATHS = ['plugins', ]
+
+PLUGINS = ['summary', 'representative_image']
+
 

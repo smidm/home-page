@@ -11,8 +11,8 @@ Source of academic home page at http://cmp.felk.cvut.cz/~smidm/.
     (optional - create virtualenv: $ mkvirtualenv pelican)
     $ git clone --recursive https://github.com/smidm/home-page
     $ cd home-page
-    $ pip install pelican Markdown typogrify
+    $ pip install pelican Markdown typogrify beautifulsoup4
     
 ## Upgrade Pelican
     $ cd home-page
-    $ pip install --upgrade pelican Markdown typogrify
+    $ pip install --upgrade pelican Markdown typogrify beautifulsoup4
