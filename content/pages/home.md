@@ -26,12 +26,18 @@ Research Interests
 Publications
 ------------
 
-- M. Šmíd and J. Matas, **Rolling Shutter Camera Synchronization with Sub-millisecond Accuracy,** in VISAPP, 2017. [\[pdf\]](download/visapp2017_camera_ready_web.pdf) [\[project\]]({filename}../flash_synchronization.md)
+- Č. Albl, Z. Kúkelová, A. Fitzgibbon, J. Heller, M. Šmíd and T. Pajdla, **On the Two-View Geometry of Unsynchronized Cameras,** in CVPR, 2017. [\[pdf\]](https://arxiv.org/pdf/1704.06843.pdf)
+- M. Šmíd and J. Matas, **Rolling Shutter Camera Synchronization with Sub-millisecond Accuracy,** in VISAPP, 2017. [\[pdf\]](download/visapp2017_camera_ready_web.pdf) [\[epub\]]({filename}../download/visapp2017_camera_ready.epub) [\[slides\]]({filename}../download/2017_02_visapp_slides/slides_subframe_synchronization.html) [\[offline slides\]]({filename}../download/2017_02_visapp_slides.zip) [\[project\]]({filename}../flash_synchronization.md)
 - M. Dorfer, T. Kazmar, M. Šmíd, S. Sing, J. Kneißl, S. Keller, O. Debeir, B. Luber, and J. Mattes, **Associating approximate paths and temporal sequences of noisy detections: Application to the recovery of spatio-temporal cancer cell trajectories,** Medical Image Analysis, 2016. [\[pdf\]](download/2016_path_association_published.pdf)
 - J. Pytela and M. Šmíd, **Handling of False Stationary Detections in Background Subtraction in Video Preprocessing,** in POSTER, 2015. [\[pdf\]](download/poster2015_pytela.pdf)
 - M. Šmíd and J. Pokorný, **Evaluation of Probabilistic Occupancy Map for Player Tracking in Team Sports,** in POSTER, 2014. [\[pdf\]](download/poster2014_matej_smid.pdf) [\[poster\]](download/poster2014_matej_smid_poster.pdf) 
 - M. Felkl, T. Kazmar, M. Smid, J. Mattes, R. Windoffer and R.E. Leube, **Monitoring the cytoskeletal EGF response in live gastric carcinoma cells,** PLOS ONE, 2012. [\[PLOS\]](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0045280), [\[pdf\]](http://www.plosone.org/article/fetchObjectAttachment.action;jsessionid=87A16A37697322371FB9BFDF07C61532?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0045280&representation=PDF)
 - T. Kazmar, M. Šmíd, M. Fuchs, B. Luber and J. Mattes, **Learning cellular texture features in microscopic cancer cell images for automated cell-detection,** in EMBC, 2010. [\[pdf\]](download/KazmarT10.pdf) 
+
+Students
+--------
+
+- Jiří Pytela, **[Identity Preservation for Multi-Target Long Term Tracking](http://hdl.handle.net/10467/61538)** (master thesis), 2015. 
 
 Professional Experience
 -----------------------

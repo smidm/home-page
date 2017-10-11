@@ -7,7 +7,7 @@ from pelicanconf import *
 
 #SITEURL = ''
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 FEED_ATOM = None
 FEED_RSS = None

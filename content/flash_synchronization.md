@@ -1,6 +1,7 @@
 Date: 2016-12-20
 Tags: publication
 Title: Rolling Shutter Camera Synchronization with Sub-millisecond Accuracy
+Image: images/visapp2017/paper_teaser.png
 
 ![photographic flashes captured with a rolling shutter sensor](images/visapp2017/flashes_96_96_77_78.resized.jpg) ![events synchronized](images/visapp2017/events_1_2_3_4.resized.png)
 
@@ -17,6 +18,19 @@ A simple method for synchronization of video streams with a precision better tha
 
   [1]: download/visapp2017_camera_ready_web.pdf
   [2]: images/visapp2017/paper_teaser.png
+  
+## EPUB
+
+Experimental [e-book compatible version]({filename}/download/visapp2017_camera_ready.epub) of the paper made with [Pandoc](http://pandoc.org/).
+  
+## Slides
+
+[![slides thumbnails][4]][3]
+
+  [3]: download/2017_02_visapp_slides/slides_subframe_synchronization.html
+  [4]: images/visapp2017/slides_teaser.png
+  
+[\[offline slides\]]({filename}/download/2017_02_visapp_slides.zip)
 
 ## Cite
 

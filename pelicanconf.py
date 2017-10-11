@@ -48,4 +48,6 @@ PLUGIN_PATHS = ['plugins', ]
 
 PLUGINS = ['summary', 'representative_image']
 
+PAGE_EXCLUDES = ['download', ]
 
+ARTICLE_EXCLUDES = ['download', ]
